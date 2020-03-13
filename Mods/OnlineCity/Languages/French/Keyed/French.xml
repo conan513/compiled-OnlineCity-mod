@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<!-- MainMenu.cs -->
+	<OCity_LAN_btn>Multijoueur</OCity_LAN_btn>
+	<!-- Kor -->
+	<OCity_MainMenu_Online>Online</OCity_MainMenu_Online>
+	<OCity_MainMenu_Withdraw>Withdraw</OCity_MainMenu_Withdraw>
+	<OCity_MainMenu_Surrender>Surrender</OCity_MainMenu_Surrender>
+
+	<!-- CaravanArrivalAction_VisitOnline.cs -->
+	<OCity_Caravan_GoTrade>Nous allons échaanger des biens avec {0}</OCity_Caravan_GoTrade>
+	<OCity_Caravan_GoTrade2>{0}</OCity_Caravan_GoTrade2>
+	<OCity_Caravan_LOGNoData>Aucune information serveur sur l'objet de l'échange</OCity_Caravan_LOGNoData>
+	<OCity_Caravan_LOGSwap>Echange de caravane: selectAllCaravan</OCity_Caravan_LOGSwap>
+	<!-- Kor -->
+	<OCity_Caravan_Go_Attack_Target>Attack</OCity_Caravan_Go_Attack_Target>
+	<OCity_Caravan_Confirm_Attack_TestBattle_Possible>Do you really want to attack this settlement? It's possible to have a training battle without consequences</OCity_Caravan_Confirm_Attack_TestBattle_Possible>
+	<OCity_Caravan_Practive>No, just practice.</OCity_Caravan_Practive>
+
+	<!-- OnlineCity_CaravanOnline.cs -->
+	<OCity_Caravan_Player>{0} joueur {1}</OCity_Caravan_Player>
+	<OCity_Caravan_PriceThing>Prix des choses : {2}</OCity_Caravan_PriceThing>
+	<OCity_Caravan_PriceAnimalsPeople>Prix des personnes et des animaux: {3}</OCity_Caravan_PriceAnimalsPeople>
+	<OCity_Caravan_Other>{4}{5}</OCity_Caravan_Other>
+	<OCity_Caravan_FreeWeight>Capacité de transport restante: </OCity_Caravan_FreeWeight>
+	<OCity_Caravan_Trade>Echanger avec {0}</OCity_Caravan_Trade>
+	<!-- Kor -->
+	<OCity_Caravan_Attack>Attack {0}</OCity_Caravan_Attack>
+
+	<!-- DevelopTest.cs -->
+	<OCity_DevTest_Test>Test</OCity_DevTest_Test>
+	<OCity_DevTest_NameTestPlayer>NameTestPlayer</OCity_DevTest_NameTestPlayer>
+
+	<!-- GameStarter.cs -->
+	<OCity_Starter_CityNotBuild>Cette emplacement est occupé par un autre joueur</OCity_Starter_CityNotBuild>
+
+	<!-- StorageTest.cs -->
+	<OCity_StorageTest_CreateGrass>Plante de l'herbe au printemps (fix)</OCity_StorageTest_CreateGrass>
+	<OCity_StorageTest_CreateGrassDescrip>Une fois par an, sur chaque carte, quand la température dépasse de 5 degrés, une nouvelle case innocuppée sera plantée à une disctance de 10 de l'herbe</OCity_StorageTest_CreateGrassDescrip>
+	<OCity_StorageTest_LastIP>Dernière IP</OCity_StorageTest_LastIP>
+
+	<!-- OnlineCity_ClientData.cs -->
+	<OCity_ClientData_ChatDot>...</OCity_ClientData_ChatDot>
+	<OCity_ClientData_Chat>Chat </OCity_ClientData_Chat>
+
+	<!-- Dialog_MainOnlineCity.cs -->
+	<OCity_Dialog_HelloLAN></OCity_Dialog_HelloLAN>
+	<OCity_Dialog_ListChat>Chat</OCity_Dialog_ListChat>
+	<OCity_Dialog_ListInfo>Information</OCity_Dialog_ListInfo>
+	<OCity_Dialog_ListAbout>A propos du mod</OCity_Dialog_ListAbout>
+	<OCity_Dialog_Connecting>Connection en cours...</OCity_Dialog_Connecting>
+	<OCity_Dialog_Login>Connexion: </OCity_Dialog_Login>
+	<OCity_Dialog_Players>Joueurs: </OCity_Dialog_Players>
+	<OCity_Dialog_ChennelOwn> Créateur de salon de discussion</OCity_Dialog_ChennelOwn>
+	<OCity_Dialog_ChennelUser> Membre</OCity_Dialog_ChennelUser>
+	<OCity_Dialog_ChennelCreate>Créer un salon</OCity_Dialog_ChennelCreate>
+	<OCity_Dialog_ChennelClose>Fermer le salon</OCity_Dialog_ChennelClose>
+	<OCity_Dialog_OthersFunctions>Autres fonctions</OCity_Dialog_OthersFunctions>
+	<OCity_Dialog_ChennelCreate2>Créer un salon</OCity_Dialog_ChennelCreate2>
+	<OCity_Dialog_ChennelLeave>Quitter le salon</OCity_Dialog_ChennelLeave>
+	<OCity_Dialog_ChennelRen>Renommer</OCity_Dialog_ChennelRen>
+	<OCity_Dialog_ChennelCreating>Création du salon</OCity_Dialog_ChennelCreating>
+	<OCity_Dialog_ChennelCreateName>Entrer un nom pour le salon</OCity_Dialog_ChennelCreateName>
+	<OCity_Dialog_ChennelQuit>Déconnexion du salon</OCity_Dialog_ChennelQuit>
+	<OCity_Dialog_ChennelQuitCheck>Etes-vous sûr de vouloir quitter le salon ?</OCity_Dialog_ChennelQuitCheck>
+	<OCity_Dialog_ChennelRenLabel>Renommement d'un salon</OCity_Dialog_ChennelRenLabel>
+	<OCity_Dialog_ChennelNewName>Entrer un nouveau nom de salon </OCity_Dialog_ChennelNewName>
+	<OCity_Dialog_PrivateMessage>Message privé</OCity_Dialog_PrivateMessage>
+	<OCity_Dialog_ChennelAddUser>Ajouter un membre</OCity_Dialog_ChennelAddUser>
+	<OCity_Dialog_ChennelPlayerInfo>Information</OCity_Dialog_ChennelPlayerInfo>
+	<OCity_Dialog_ChennelPlayerInfoTitle>A propos </OCity_Dialog_ChennelPlayerInfoTitle>
+	<OCity_Dialog_AboutMode>A propos d'OnlineCity</OCity_Dialog_AboutMode>
+	<OCity_Dialog_AutorPage>Page du créateur</OCity_Dialog_AutorPage>
+	<OCity_Dialog_Regame>Recommencer</OCity_Dialog_Regame>
+	<OCity_Dialog_DeleteData>Supprimer toutes les données de la partie</OCity_Dialog_DeleteData>
+	<OCity_Dialog_DeleteDataCheck>Voulez-vous vraiment supprimer cette partie et recommencer depuis le début?</OCity_Dialog_DeleteDataCheck>
+	<OCity_Dialog_DeletedData>TLa partie a été supprimée. Inscrivez-vous pour créer une nouvelle colonie.</OCity_Dialog_DeletedData>
+
+	<!-- OnlineCity_Dialog_CreateWorld.cs -->
+	<OCity_Dialog_CreateWorld_Create>Créer un monde</OCity_Dialog_CreateWorld_Create>
+	<OCity_Dialog_CreateWorld_BtnOk>Ok</OCity_Dialog_CreateWorld_BtnOk>
+	<OCity_Dialog_CreateWorld_Err>Erreur</OCity_Dialog_CreateWorld_Err>
+	<OCity_Dialog_CreateWorld_Err2>Paramètres invalides</OCity_Dialog_CreateWorld_Err2>
+	<OCity_Dialog_CreateWorld_BtnCancel>Annuler</OCity_Dialog_CreateWorld_BtnCancel>
+	<OCity_Dialog_CreateWorld_Seed>Graine</OCity_Dialog_CreateWorld_Seed>
+	<OCity_Dialog_CreateWorld_Difficulty>Difficulté. Nombre de 0 (très simple) à 2 (difficile)</OCity_Dialog_CreateWorld_Difficulty>
+	<OCity_Dialog_CreateWorld_MapSize>Taille de la carte locale (200 - petite, 400 - ludeonicrous)</OCity_Dialog_CreateWorld_MapSize>
+	<OCity_Dialog_CreateWorld_PercentWorld>Pourcentage de génération de la planète (de 5 à 100)</OCity_Dialog_CreateWorld_PercentWorld>
+
+	<!-- Dialog_LoginForm.cs -->
+	<OCity_LoginForm_BtnEnter>Connexion</OCity_LoginForm_BtnEnter>
+	<OCity_LoginForm_Register>Enregistrement</OCity_LoginForm_Register>
+	<OCity_LoginForm_Close>Fermer</OCity_LoginForm_Close>
+	<OCity_LoginForm_LabelEnter>Connexion</OCity_LoginForm_LabelEnter>
+	<OCity_LoginForm_Server>Serveur:</OCity_LoginForm_Server>
+	<OCity_LoginForm_Login>Pseudo:</OCity_LoginForm_Login>
+	<OCity_LoginForm_Pass>Mot de passe:</OCity_LoginForm_Pass>
+
+	<!-- SessionClientController.cs -->
+	<OCity_SessionCC_ConnectionFailTitle>Echec de la connexion</OCity_SessionCC_ConnectionFailTitle>
+	<OCity_SessionCC_LoginFailTitle>Mauvais pseudo ou mot de passe</OCity_SessionCC_LoginFailTitle>
+	<OCity_SessionCC_RegFailTitle>Enregistrement échoué</OCity_SessionCC_RegFailTitle>
+	<OCity_SessionCC_MsgCanceledCreateW>Annulé</OCity_SessionCC_MsgCanceledCreateW>
+	<OCity_SessionCC_MsgCreateWorlErr>TIl y a eu une erreur, essayez de nouveau.</OCity_SessionCC_MsgCreateWorlErr>
+	<OCity_SessionCC_MsgCreateWorlGood>Hooray! Le monde sur le serveur est créé!</OCity_SessionCC_MsgCreateWorlGood>
+	<OCity_SessionCC_MsgCreatingServer>Création d'un serveur</OCity_SessionCC_MsgCreatingServer>
+	<OCity_SessionCC_Disconnected>Déconnecté.</OCity_SessionCC_Disconnected>
+	<OCity_SessionCC_Disconnect>Déconnexion</OCity_SessionCC_Disconnect>
+	<!-- Kor -->
+	<OCity_SessionCC_Shutdown_Command_ProgressSaved>We received a shutdown command from the server. The progress has been saved.</OCity_SessionCC_Shutdown_Command_ProgressSaved>
+	<OCity_SessionCC_Shutdown_Command>The server has received a command to shut down</OCity_SessionCC_Shutdown_Command>
+	<OCity_SessionCC_Scenario_Classic>Classic</OCity_SessionCC_Scenario_Classic>
+	<OCity_SessionCC_Client_UpdateNeeded>Upgrade the client! Version for this server: </OCity_SessionCC_Client_UpdateNeeded>
+	<OCity_SessionCC_InitConnectedIntro_Title>Attention</OCity_SessionCC_InitConnectedIntro_Title>
+	<OCity_SessionCC_InitConnectedIntro_Text>If the exact match of the mods is set on the server, and they have not yet been installed, now they will be downloaded. If there is important information in the Mods game subfolder, click Cancel and make a backup copy! The mod synchronization process may take several minutes, after which the game will restart.</OCity_SessionCC_InitConnectedIntro_Text>
+
+	<!-- Kor -->
+	<!-- Dialog_Exchenge.cs -->
+	<OCity_Dialog_Exchenge_Close>Close</OCity_Dialog_Exchenge_Close>
+	<OCity_Dialog_Exchenge_Edit>Edit</OCity_Dialog_Exchenge_Edit>
+	<OCity_Dialog_Exchenge_Trade_Orders>Trade orders</OCity_Dialog_Exchenge_Trade_Orders>
+	<OCity_Dialog_Exchenge_Viewing_Orders>Viewing order</OCity_Dialog_Exchenge_Viewing_Orders>
+	<OCity_Dialog_Exchenge_Deal_Open_Everyone>The deal is available to everyone.</OCity_Dialog_Exchenge_Deal_Open_Everyone>
+	<OCity_Dialog_Exchenge_Deal_Open_Specific>The deal is only available for: {0}</OCity_Dialog_Exchenge_Deal_Open_Specific>
+	<OCity_Dialog_Exchenge_Seller>Seller</OCity_Dialog_Exchenge_Seller>
+	<OCity_Dialog_Exchenge_BeenOnline>has been online</OCity_Dialog_Exchenge_BeenOnline>
+	<OCity_Dialog_Exchenge_Location>Location</OCity_Dialog_Exchenge_Location>
+	<OCity_Dialog_Exchenge_Days> days </OCity_Dialog_Exchenge_Days>
+	<OCity_Dialog_Exchenge_In> in </OCity_Dialog_Exchenge_In>
+	<OCity_Dialog_Exchenge_Location_Goods>Location of goods:</OCity_Dialog_Exchenge_Location_Goods>
+	<OCity_Dialog_Exchenge_Number>Number</OCity_Dialog_Exchenge_Number>
+	<OCity_Dialog_Exchenge_Max_Repetition_Transaction>Maximum repetition of the transaction:</OCity_Dialog_Exchenge_Max_Repetition_Transaction>
+	<OCity_Dialog_Exchenge_Acquire>Acquire</OCity_Dialog_Exchenge_Acquire>
+	<OCity_Dialog_Exchenge_GiveTo>Give it to</OCity_Dialog_Exchenge_GiveTo>
+	<OCity_Dialog_Exchenge_No_Warrants>No warrants</OCity_Dialog_Exchenge_No_Warrants>
+	<OCity_Dialog_Exchenge_Active_Orders>Active orders {0}</OCity_Dialog_Exchenge_Active_Orders>
+	<OCity_Dialog_Exchenge_Update>Update</OCity_Dialog_Exchenge_Update>
+	<OCity_Dialog_Exchenge_Select_For_Sale>Selection for sale from {0} </OCity_Dialog_Exchenge_Select_For_Sale>
+	<OCity_Dialog_Exchenge_Choose>Choose</OCity_Dialog_Exchenge_Choose>
+	<OCity_Dialog_Exchenge_Order_Create>Create new order</OCity_Dialog_Exchenge_Order_Create>
+	<OCity_Dialog_Exchenge_Save>Save</OCity_Dialog_Exchenge_Save>
+	<OCity_Dialog_Exchenge_Create>Create</OCity_Dialog_Exchenge_Create>
+	<OCity_Dialog_Exchenge_Trade>Trade</OCity_Dialog_Exchenge_Trade>
+	<OCity_Dialog_Exchenge_Counterproposal>Counterproposal</OCity_Dialog_Exchenge_Counterproposal>
+	<OCity_Dialog_Exchenge_Action_Not_CarriedOut>Action not carried out</OCity_Dialog_Exchenge_Action_Not_CarriedOut>
+	<OCity_Dialog_Exchenge_Delete>Delete</OCity_Dialog_Exchenge_Delete>
+	<OCity_Dialog_Exchenge_Order_New>New order</OCity_Dialog_Exchenge_Order_New>
+	<OCity_Dialog_Exchenge_No_Exchanges>No such exchanges:</OCity_Dialog_Exchenge_No_Exchanges>
+	<OCity_Dialog_Exchenge_No_Available_Exchange>Nothing else is available for exchange.</OCity_Dialog_Exchenge_No_Available_Exchange>
+	<OCity_Dialog_Exchenge_Done_Once>It`s done once:</OCity_Dialog_Exchenge_Done_Once>
+	<OCity_Dialog_Exchenge_We_Give>We give</OCity_Dialog_Exchenge_We_Give>
+	<OCity_Dialog_Exchenge_We_Give2>We give {0} :</OCity_Dialog_Exchenge_We_Give2>
+	<OCity_Dialog_Exchenge_We_Get>We get</OCity_Dialog_Exchenge_We_Get>
+	<OCity_Dialog_Exchenge_No_User_Restrictions>There are no user restrictions.</OCity_Dialog_Exchenge_No_User_Restrictions>
+	<OCity_Dialog_Exchenge_User_Restrictions>Deal available only to users:</OCity_Dialog_Exchenge_User_Restrictions>
+	<OCity_Dialog_Exchenge_Add_User>+ add user</OCity_Dialog_Exchenge_Add_User>
+	<OCity_Dialog_Exchenge_Specific_Facility_Assigned>A specific facility has been assigned</OCity_Dialog_Exchenge_Specific_Facility_Assigned>
+	<OCity_Dialog_Exchenge_Add>+ add</OCity_Dialog_Exchenge_Add>
+	<OCity_Dialog_Exchenge_Whole_On>A whole on {0} of {1} ({2}%).</OCity_Dialog_Exchenge_Whole_On>
+	<OCity_Dialog_Exchenge_Quality>Quality</OCity_Dialog_Exchenge_Quality>
+	<OCity_Dialog_Exchenge_Whole_Less_Than>whole no less than</OCity_Dialog_Exchenge_Whole_Less_Than>
+	<OCity_Dialog_Exchenge_QualityNo_Less_Than>The quality is no less than</OCity_Dialog_Exchenge_QualityNo_Less_Than>
+	<OCity_Dialog_Exchenge_All>all</OCity_Dialog_Exchenge_All>
+
+	<!-- Kor -->
+	<!-- ThingTrade.cs -->
+	<OCity_ThingTrade_Quality_Strength>Quality {0}. Strength {1} of {2}</OCity_ThingTrade_Quality_Strength>
+	<OCity_ThingTrade_Cut_Body_Off>Cut off the body.</OCity_ThingTrade_Cut_Body_Off>
+	<OCity_ThingTrade_QualityBetter_StrengthMore>Quality {0} and better. Strength {1}% and more</OCity_ThingTrade_QualityBetter_StrengthMore>
+	<OCity_ThingTrade_CouldTake_OffCorpse>Could be taken off a corpse.</OCity_ThingTrade_CouldTake_OffCorpse>
+
+	<!-- UpdateWorldController.cs -->
+	<OCity_UpdateWorld_Trade>Echanger</OCity_UpdateWorld_Trade>
+	<OCity_UpdateWorld_TradeDetails>Le joueur {0} a transféré les objets: {2} au joueur {1}</OCity_UpdateWorld_TradeDetails>
+
+	<!-- Dialog_Input.cs -->
+	<OCity_DialogInput_Ok>Ok</OCity_DialogInput_Ok>
+	<OCity_DialogInput_Cancele>Annuler</OCity_DialogInput_Cancele>
+
+	<!-- Dialog_Registration.cs -->
+	<OCity_Dialog_Registration_Close>Fermer</OCity_Dialog_Registration_Close>
+	<OCity_Dialog_Registration_BtnReg>Enregistrement</OCity_Dialog_Registration_BtnReg>
+	<OCity_Dialog_Registration_LabelReg>Enregistrement</OCity_Dialog_Registration_LabelReg>
+	<OCity_Dialog_Registration_Server>Serveur:</OCity_Dialog_Registration_Server>
+	<OCity_Dialog_Registration_Login>Pseudo:</OCity_Dialog_Registration_Login>
+	<OCity_Dialog_Registration_Pass>Mot de passe:</OCity_Dialog_Registration_Pass>
+	<OCity_Dialog_Registration_Check>Confirmation:</OCity_Dialog_Registration_Check>
+
+	<!-- Dialog_TradeOnline.cs -->
+	<OCity_Dialog_TradeOnline_Trade>Transfère de biens</OCity_Dialog_TradeOnline_Trade>
+
+	<!-- GrassFix.cs -->
+	<OCity_GrassFix_Plant>Plantée </OCity_GrassFix_Plant>
+	<OCity_GrassFix_Grass> herbe</OCity_GrassFix_Grass>
+
+	<!-- PlayerClient.cs -->
+	<OCity_PlayerClient_LastTick>Joue depuis: {0} années, et: {1} jours.</OCity_PlayerClient_LastTick>
+	<OCity_PlayerClient_LastSaveTime>Est dans la partie depuis: {2}</OCity_PlayerClient_LastSaveTime>
+	<OCity_PlayerClient_baseCount>Nombres de bases: {3}</OCity_PlayerClient_baseCount>
+	<OCity_PlayerClient_caravanCount>Caravanes: {4}</OCity_PlayerClient_caravanCount>
+	<OCity_PlayerClient_marketValue>Valeur des objets: {5}</OCity_PlayerClient_marketValue>
+	<OCity_PlayerClient_marketValuePawn>Valeur des personnes et des animaux: {6}</OCity_PlayerClient_marketValuePawn>
+	<OCity_PlayerClient_LastSaveTimeNon>N'a pas participé</OCity_PlayerClient_LastSaveTimeNon>
+
+	<!-- Kor -->
+	<!-- GameUtils.cs -->
+	<OCity_GameUtils_From> from </OCity_GameUtils_From>
+	<OCity_GameUtils_Ok>OK</OCity_GameUtils_Ok>
+
+	<!-- Kor -->
+	<!-- GameAttacker.cs -->
+	<OCity_GameAttacker_Dialog_ErrorMessage>Error attack</OCity_GameAttacker_Dialog_ErrorMessage>
+	<OCity_GameAttacker_Dialog_Settlement_Attack>You are attacking the settlement</OCity_GameAttacker_Dialog_Settlement_Attack>
+	<OCity_GameAttacker_Withdraw>Withdraw</OCity_GameAttacker_Withdraw>
+	<OCity_GameAttacker_Main_Dialog>
+	In this mode, the pause must be permanently activated. In spite of this the game continues and things change.
+	If you want to finish attack, then take those you can to any edge of the map and in the main menu press withdraw.
+	</OCity_GameAttacker_Main_Dialog>
+	<OCity_GameAttacker_Main_Preparation_Dialog>Preparation is complete. You have one minute to look around the map and the attack will begin.</OCity_GameAttacker_Main_Preparation_Dialog>
+	<Ocity_GameAttacker_TrainingFight_Won>You won this training fight! :) </Ocity_GameAttacker_TrainingFight_Won>
+	<Ocity_GameAttacker_TrainingFight_Caravan_Restore>The caravan will now be restored, you'll need to log in.</Ocity_GameAttacker_TrainingFight_Caravan_Restore>
+	<Ocity_GameAttacker_TrainingFight_Lost>You have been defeated in this training attack. :(</Ocity_GameAttacker_TrainingFight_Lost>
+	<OCity_GameAttacker_Done>Done</OCity_GameAttacker_Done>
+	<OCity_GameAttacker_Settlement_TakenOver>You have taken over this settlement! :)</OCity_GameAttacker_Settlement_TakenOver>
+	<OCity_GameAttacker_Defeated>You have been defeated :( </OCity_GameAttacker_Defeated>
+	<OCity_GameAttacker_Colonist_Return>The remaining colonists who are able to move and who have retreated to the edges of the map will return.</OCity_GameAttacker_Colonist_Return>
+
+	<!-- Kor -->
+	<!-- GameAttackHost.cs -->
+	<OCity_GameAttack_Host_Test_Attack>{0} is conducting a test attack on your settlement</OCity_GameAttack_Host_Test_Attack>
+	<OCity_GameAttack_Host_Settlement_Attacking>Your settlement is attacking {0}</OCity_GameAttack_Host_Settlement_Attacking>
+	<OCity_GameAttack_Host_GameSpeed_Lock_Dialog>Wait until the attacker is ready. After that, the speed will automatically turn on the x1 and it will not change.</OCity_GameAttack_Host_GameSpeed_Lock_Dialog>
+	<OCity_GameAttack_Host_GameSpeed_Lock_Dialog2>If you want to finish and give up the settlement, click in the main menu.</OCity_GameAttack_Host_GameSpeed_Lock_Dialog2>
+	<OCity_GameAttack_Host_Cancel_Action> If you want to finish and cancel the action, click on the main menu.</OCity_GameAttack_Host_Cancel_Action>
+	<OCity_GameAttack_Host_Surrender>Surrender</OCity_GameAttack_Host_Surrender>
+	<OCity_GameAttack_Host_Error_Message_Attack>Error attack</OCity_GameAttack_Host_Error_Message_Attack>
+	<OCity_GameAttack_Host_Card_Restored>The card will now be restored, you will need to login.</OCity_GameAttack_Host_Card_Restored>
+	<OCity_GameAttack_Host_Training_Attack_Repulsed>You repulsed this training attack! :)</OCity_GameAttack_Host_Training_Attack_Repulsed>
+	<OCity_GameAttack_Host_Caravan_TransferToNewOwner>You have been defeated and the settlement passes to the new owner :(</OCity_GameAttack_Host_Caravan_TransferToNewOwner>
+	<OCity_GameAttack_Host_Atack_Repulsed>You repulsed that attack! :)</OCity_GameAttack_Host_Atack_Repulsed>
+	<OCity_GameAttack_Host_Stranded_EnemiesLostCommander_Touch>The enemies who couldn't get away will stay on the map, but they've lost touch with their commander.</OCity_GameAttack_Host_Stranded_EnemiesLostCommander_Touch>
+
+	<!-- SCC.cs -->
+	<!-- <OCity_SCC_Disconnected>Disconnected.</OCity_SCC_Disconnected>
+	<OCity_SCC_DisconnectedShow>Соединение прервано</OCity_SCC_DisconnectedShow> -->
+
+	<!-- Dialog_MainOnlineCity.cs -->
+	<!-- Kor -->
+	<OCity_Dialog_Exchenge_Chat>Chat</OCity_Dialog_Exchenge_Chat>
+	<OCity_Dialog_Exchenge_Gamers>gamers</OCity_Dialog_Exchenge_Gamers>
+	<OCity_Dialog_Exchenge_What_Point>What's the point</OCity_Dialog_Exchenge_What_Point>
+
+	<OCity_InfoTabText></OCity_InfoTabText>
+	<OCity_AboutTabText> Créateur Vasily Ivanov aka Aant.</OCity_AboutTabText>
+	<OCity_AboutGeneralText>Salutations, colonisateur!
+
+OnlineCity est un mod multijoueur pour RimWorld. Il permet à plusieurs joueurs de jouer sur la même planète en ligne.
+
+Après l'enregistrement, vous pouvez votre propre colonie et jouer aux cotés des autres joueurs. Vous pouvez voir la progression de vos voisins, leurs colonies et caravanes, mais surtout, vous pourrez apporter du matériel en échangeant de la nourriture, des médicaments, des armes, des colons et plus . Pour cela, il suffit de former une caravane comme dans RimWord vanilla and l'envoyer aux autres joueurs!
+
+L'objectif de ce mod et de pouvoir jouer avec des amis sans perturber l'équilibrage ou le niveau d'immersion du jeu. Pour le moment, le mod est dans ses premiers stades. Ses fonctionnalités incluent:
+
+* Une partie sur une planète avec la possibilité de voir les colonies et les caravanes des autres joueurs
+
+* L'échange d'objets (objets moddés inclus si les deux joueurs possèdent ce mod)
+
+* Le transfers de personnages et d'animaux entre les joueurs
+
+* Des salons de discussion privés et publics entre les joueurs
+
+Caractéristiques techniques:
+
+* Toutes les combinaisons de mods sont supportées et possibles, mais lors d'un échange, les deux joueurs doivent avoir le mod dont sont issus les objets. Il n'y a pas de restriction concernant les incomptatibilités entre les mods, alors soyez prudent!
+
+* OnlineCity est complétement désactivé lors d'une partie solo (si vous ne commencez pas avec le bouton "Mutlijoueur" sur le menu principal)
+
+* Lorsque vous enregistrez un nouveau compte, le jeu peut freeze pendant quelques minutes. C'est normal, soyez patient s'il vous plait.
+
+* Pour des raisons techniques, la sauvegarde ne fonctionne pas quand le jeu n'est pas fermé depuis le menu du jeu. Au lieu de ça, la partie est sauvgardée sur le serveur toutes les 15 minutes.
+
+* Pour le moment, le jeu est surtout sur le jeu coopératif.
+
+* Le mode développeur est actuellement disponible, maias son utilisation est désapprouvée (sauf quand c'est nécessaire pour tester le mod).
+
+* Le transfers de colons avec HardcoreSK project ne fonctionne pas pour le moment
+
+* Les bbiens et les personnages peuvent être transferés à des des joueurs hors ligne
+
+* Sur la carte du monde, les colonies et caravanes des autres joueurs sont en bleues. Vous pouvez intéragir avec eux en sélectionnant votre caravane et en effectuant un clic droit sur eux.
+
+* Vous pouvez échanger entre les caravanes et colonies sur les mêmes cases en faisant un clic droit dessus. Attention aux incompatibilités dûes aux mods et à la surcharge de l'hôte.
+
+* Attention au nombre de biens que votre caravane peut transporter. Ils ne pourront pas bouger si ils sont surchargés. Vous pouvez combien de biens la carave peut transporter en cliquant dessus.
+
+* Cliquer sur un joueur dans le salon de discussion permet de lui envoyer des messages privés, voir son profil, ou l'ajouter à votre salon de discussion actuel.
+
+* Pour choisir où seront stockés les objets reçus des autre joueurs, créez une pile de stockage avec 'trad' dans le nom (ex 'Trading', 'Trades', 'Incoming traded items' etc.)
+
+* Lorsque des colons sont transférés dans une autre colonie, après que le dernier colon soit transféré, tous les objets restants seront automatiquement ajoutés à l'échange.
+
+* Le scénario de la partie ne peut pas être customisé, mais le narrateur peut être changé directement après le début de la partie dans les options.
+
+* Vous ne pouvez pas jouer sur le même colonie en étant un autre joueur. C'est peu susceptible de changer.
+
+* Les sauvgardes multijoueur peuvent être chargées en solo. Chargez simplement la sauvegarde 'onlineTempCityLoad' pour continuer en solo. Notez que la sauvegarde solo ne peut pas être réexportée dans le multijoueur.
+
+* Le mod fait de son mieux pour ne pas altérer le jeu, il ajoute simplement des interactions entre les joueur via des mécaniques déjà existantes (i.e. caravans). Le seul changement majeur est le sauvegarde, comme elle est automatiquement faite par le serveur, et la sensation d'ouvrir la carte et de voir les colonies des autres joueurs à coté :)
+
+* Un exemple d'interaction entre les joueurs peut être ceci : Votre colonie subit un raid. Vous mettez le jeu en pause et demandez à un ami de l'aide. Il envoie une caravane avec des troupes. Quand ils arrivent, ils rejoignent votre colonie et sont sous votre contrôle jusqu'à ce que le raid soit repoussé, après vous reformez la caravane et les renvoyez dans leur colonie d'origine. Alternativement, tous les soldats sauf un sont envoyées dans votre colonie donc la caravane n'est pas dissoute. Une fois leur travail accompli, vous pouvez les renvoyer dans la caravane et votre ami a de nouveau leur contrôle.
+
+* Les logs sont écrits dans '%AppData%\..\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios\OnlineCity' (cela peut être copié-collé dans l'explorateur de fichier)
+
+
+Références:
+L'adresse du serveur principal est: 194.87.95.90
+Discord: https://discord.gg/5DzWrnR
+Groupe officiel VK mod: https://vk.com/rimworldonline
+Trello: https://trello.com/b/gXtWtDjy/onlinecity-mod-rimworld
+GitHub: https://github.com/AantCoder/OnlineCity
+
+
+Pour avoir son propre serveur, suivez ces indications:
+1. Dézippez les fichiers du serveur dans une place alouée.
+2. Lancez-le. Le serveur crée le dossier C:\World. Dans celui-ci seront les logs et les données. Le serveur sera de base sur le port 19019.
+3. Enregistrez un compte. Le premier jouer à s'enregistrer devient administrateur et lui sont demandés les paramètres du monde. Après la création du monde, il est déconnecté.
+4. Reconnectez-vous et recommencez à jouer comme d'habitude, créez une colonie, etc.
+
+Pour recréer un monde, fermez la console du serveur, supprimez les données, et relancez la console.
+</OCity_AboutGeneralText>
+
+</LanguageData>

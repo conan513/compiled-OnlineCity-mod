@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<!-- MainMenu.cs -->
+	<OCity_LAN_btn>Сетевая игра</OCity_LAN_btn>
+	<!-- Kor -->
+	<OCity_MainMenu_Online>Онлайн</OCity_MainMenu_Online>
+	<OCity_MainMenu_Withdraw>Отступить</OCity_MainMenu_Withdraw>
+	<OCity_MainMenu_Surrender>Сдаться</OCity_MainMenu_Surrender>
+
+	<!-- CaravanArrivalAction_VisitOnline.cs -->
+	<OCity_Caravan_GoTrade>Идем обмениваться товарами c {0}</OCity_Caravan_GoTrade>
+	<OCity_Caravan_GoTrade2>{0}</OCity_Caravan_GoTrade2>
+	<OCity_Caravan_LOGNoData>Нет данных сервера об объекте торговли</OCity_Caravan_LOGNoData>
+	<OCity_Caravan_LOGSwap>Караван обмен: selectAllCaravan</OCity_Caravan_LOGSwap>
+	<!-- Kor -->
+	<OCity_Caravan_Go_Attack_Target>Атака</OCity_Caravan_Go_Attack_Target>
+	<OCity_Caravan_Confirm_Attack_TestBattle_Possible>Вы дейстивтельно хотите напасть на данное поселение? Можно провести тренировочный бой без последствий</OCity_Caravan_Confirm_Attack_TestBattle_Possible>
+	<OCity_Caravan_Practive>Нет, только тренировка.</OCity_Caravan_Practive>
+
+	<!-- OnlineCity_CaravanOnline.cs -->
+	<OCity_Caravan_Player>{0} игрока {1}</OCity_Caravan_Player>
+	<OCity_Caravan_PriceThing>Ценность вещей: {2}</OCity_Caravan_PriceThing>
+	<OCity_Caravan_PriceAnimalsPeople>Ценность людей и животных: {3}</OCity_Caravan_PriceAnimalsPeople>
+	<OCity_Caravan_Other>{4}{5}</OCity_Caravan_Other>
+	<OCity_Caravan_FreeWeight>Оставшаяся грузоподъемность: </OCity_Caravan_FreeWeight>
+	<OCity_Caravan_Trade>Обмен товарами c {0}</OCity_Caravan_Trade>
+	<!-- Kor -->
+	<OCity_Caravan_Attack>Атаковать {0}</OCity_Caravan_Attack>
+
+	<!-- DevelopTest.cs -->
+	<OCity_DevTest_Test>Тест</OCity_DevTest_Test>
+	<OCity_DevTest_NameTestPlayer>ИмяТестовогоИгрока</OCity_DevTest_NameTestPlayer>
+
+	<!-- GameStarter.cs -->
+	<OCity_Starter_CityNotBuild>Место уже занято другим игроком</OCity_Starter_CityNotBuild>
+
+	<!-- StorageTest.cs -->
+	<OCity_StorageTest_CreateGrass>Сажать траву весной (фикс)</OCity_StorageTest_CreateGrass>
+	<OCity_StorageTest_CreateGrassDescrip>Один раз в год на каждой карте, когда температура поднимается больше 5 градусов на каждой не занятой, пригодной для роста клетке на расстоянии 10 от травы будет посажена новая.</OCity_StorageTest_CreateGrassDescrip>
+	<OCity_StorageTest_LastIP>Предлагаемый IP</OCity_StorageTest_LastIP>
+
+	<!-- OnlineCity_ClientData.cs -->
+	<OCity_ClientData_ChatDot>...</OCity_ClientData_ChatDot>
+	<OCity_ClientData_Chat>Чат </OCity_ClientData_Chat>
+
+	<!-- Dialog_MainOnlineCity.cs -->
+	<OCity_Dialog_HelloLAN></OCity_Dialog_HelloLAN>
+	<OCity_Dialog_ListChat>Чат</OCity_Dialog_ListChat>
+	<OCity_Dialog_ListInfo>Информация</OCity_Dialog_ListInfo>
+	<OCity_Dialog_ListAbout>О моде</OCity_Dialog_ListAbout>
+	<OCity_Dialog_Connecting>Соединение...</OCity_Dialog_Connecting>
+	<OCity_Dialog_Login>Логин: </OCity_Dialog_Login>
+	<OCity_Dialog_Players>Игроки: </OCity_Dialog_Players>
+	<OCity_Dialog_ChennelOwn> Создатель канала</OCity_Dialog_ChennelOwn>
+	<OCity_Dialog_ChennelUser> Участник</OCity_Dialog_ChennelUser>
+	<OCity_Dialog_ChennelCreate>Создать канал</OCity_Dialog_ChennelCreate>
+	<OCity_Dialog_ChennelClose>Закрыть канал</OCity_Dialog_ChennelClose>
+	<OCity_Dialog_OthersFunctions>Другие функции</OCity_Dialog_OthersFunctions>
+	<OCity_Dialog_ChennelCreate2>Создать канал</OCity_Dialog_ChennelCreate2>
+	<OCity_Dialog_ChennelLeave>Выйти из канала</OCity_Dialog_ChennelLeave>
+	<OCity_Dialog_ChennelRen>Переименовать</OCity_Dialog_ChennelRen>
+	<OCity_Dialog_ChennelCreating>Создание канала</OCity_Dialog_ChennelCreating>
+	<OCity_Dialog_ChennelCreateName>Введите название канала</OCity_Dialog_ChennelCreateName>
+	<OCity_Dialog_ChennelQuit>Выход из канала</OCity_Dialog_ChennelQuit>
+	<OCity_Dialog_ChennelQuitCheck>Вы действительно хотите покинуть канал?</OCity_Dialog_ChennelQuitCheck>
+	<OCity_Dialog_ChennelRenLabel>Переименование канала</OCity_Dialog_ChennelRenLabel>
+	<OCity_Dialog_ChennelNewName>Введите новое название канала </OCity_Dialog_ChennelNewName>
+	<OCity_Dialog_PrivateMessage>Личное сообщение</OCity_Dialog_PrivateMessage>
+	<OCity_Dialog_ChennelAddUser>Добавить участника</OCity_Dialog_ChennelAddUser>
+	<OCity_Dialog_ChennelPlayerInfo>Информация</OCity_Dialog_ChennelPlayerInfo>
+	<OCity_Dialog_ChennelPlayerInfoTitle>Информация о </OCity_Dialog_ChennelPlayerInfoTitle>
+	<OCity_Dialog_AboutMode>О моде OnlineCity</OCity_Dialog_AboutMode>
+	<OCity_Dialog_AutorPage>Страница автора</OCity_Dialog_AutorPage>
+	<OCity_Dialog_Regame>Начать заново</OCity_Dialog_Regame>
+	<OCity_Dialog_DeleteData>Удаление всех игровых данных</OCity_Dialog_DeleteData>
+	<OCity_Dialog_DeleteDataCheck>Вы действительно хотите полностью удалить игру и начать заново?</OCity_Dialog_DeleteDataCheck>
+	<OCity_Dialog_DeletedData>Игра удалена. Войдите снова, чтобы создать новую.</OCity_Dialog_DeletedData>
+
+	<!-- OnlineCity_Dialog_CreateWorld.cs -->
+	<OCity_Dialog_CreateWorld_Create>Создать мир</OCity_Dialog_CreateWorld_Create>
+	<OCity_Dialog_CreateWorld_BtnOk>OK</OCity_Dialog_CreateWorld_BtnOk>
+	<OCity_Dialog_CreateWorld_Err>Ошибка</OCity_Dialog_CreateWorld_Err>
+	<OCity_Dialog_CreateWorld_Err2>Неверно заполнены параметры</OCity_Dialog_CreateWorld_Err2>
+	<OCity_Dialog_CreateWorld_BtnCancel>Отмена</OCity_Dialog_CreateWorld_BtnCancel>
+	<OCity_Dialog_CreateWorld_Seed>Зерно</OCity_Dialog_CreateWorld_Seed>
+	<OCity_Dialog_CreateWorld_Difficulty>Сложность. Целое от 0 (очень просто) до 2 (тяжело)</OCity_Dialog_CreateWorld_Difficulty>
+	<OCity_Dialog_CreateWorld_MapSize>Размер карты местности (200 - малая, 400 - огромная)</OCity_Dialog_CreateWorld_MapSize>
+	<OCity_Dialog_CreateWorld_PercentWorld>Процент генерации поверхности планеты (от 5 до 100)</OCity_Dialog_CreateWorld_PercentWorld>
+
+	<!-- Dialog_LoginForm.cs -->
+	<OCity_LoginForm_BtnEnter>Вход</OCity_LoginForm_BtnEnter>
+	<OCity_LoginForm_Register>Регистрация</OCity_LoginForm_Register>
+	<OCity_LoginForm_Close>Закрыть</OCity_LoginForm_Close>
+	<OCity_LoginForm_LabelEnter>Вход</OCity_LoginForm_LabelEnter>
+	<OCity_LoginForm_Server>Сервер:</OCity_LoginForm_Server>
+	<OCity_LoginForm_Login>Логин:</OCity_LoginForm_Login>
+	<OCity_LoginForm_Pass>Пароль:</OCity_LoginForm_Pass>
+
+	<!-- SessionClientController.cs -->
+	<OCity_SessionCC_ConnectionFailTitle>Соединение не установлено</OCity_SessionCC_ConnectionFailTitle>
+	<OCity_SessionCC_LoginFailTitle>Ошибка входа</OCity_SessionCC_LoginFailTitle>
+	<OCity_SessionCC_RegFailTitle>Ошибка регистрации</OCity_SessionCC_RegFailTitle>
+	<OCity_SessionCC_MsgCanceledCreateW>Отменено</OCity_SessionCC_MsgCanceledCreateW>
+	<OCity_SessionCC_MsgCreateWorlErr>Произошла ошибка, попробуйте ещё раз.</OCity_SessionCC_MsgCreateWorlErr>
+	<OCity_SessionCC_MsgCreateWorlGood>Ура! Мир на сервере создан!</OCity_SessionCC_MsgCreateWorlGood>
+	<OCity_SessionCC_MsgCreatingServer>Создание сервера</OCity_SessionCC_MsgCreatingServer>
+	<OCity_SessionCC_Disconnected>Ошибка соединения.</OCity_SessionCC_Disconnected>
+	<OCity_SessionCC_Disconnect>Игра прервана</OCity_SessionCC_Disconnect>
+	<!-- Kor -->
+	<OCity_SessionCC_Shutdown_Command_ProgressSaved>От сервера получена команда на отключение. Прогресс был сохранен.</OCity_SessionCC_Shutdown_Command_ProgressSaved>
+	<OCity_SessionCC_Shutdown_Command>От сервера получена команда на отключение.</OCity_SessionCC_Shutdown_Command>
+	<OCity_SessionCC_Scenario_Classic>Классика</OCity_SessionCC_Scenario_Classic>
+	<OCity_SessionCC_Client_UpdateNeeded>Обновите клиент! Версия для данного сервера: </OCity_SessionCC_Client_UpdateNeeded>
+	<OCity_SessionCC_InitConnectedIntro_Title>Внимание!</OCity_SessionCC_InitConnectedIntro_Title>
+	<OCity_SessionCC_InitConnectedIntro_Text>Если на сервере задано точное соответствие модов, и они ещё не установлены, то сейчас они будут скачены. Если в подпапке игры Mods есть важная информация, то нажмите Отмена и сделайте резерную копию! Процесс синхронизации модов может занять несколько минут, после чего игра будет перезапущена.</OCity_SessionCC_InitConnectedIntro_Text>
+
+	<!-- Kor -->
+	<!-- Dialog_Exchenge.cs -->
+	<OCity_Dialog_Exchenge_Close>Закрыть</OCity_Dialog_Exchenge_Close>
+	<OCity_Dialog_Exchenge_Edit>Редактировать</OCity_Dialog_Exchenge_Edit>
+	<OCity_Dialog_Exchenge_Trade_Orders>Торговые ордера</OCity_Dialog_Exchenge_Trade_Orders>
+	<OCity_Dialog_Exchenge_Viewing_Orders>Просмотр ордера</OCity_Dialog_Exchenge_Viewing_Orders>
+	<OCity_Dialog_Exchenge_Deal_Open_Everyone>Сделка доступна всем.</OCity_Dialog_Exchenge_Deal_Open_Everyone>
+	<OCity_Dialog_Exchenge_Deal_Open_Specific>Сделка доступна только: {0}</OCity_Dialog_Exchenge_Deal_Open_Specific>
+	<OCity_Dialog_Exchenge_Seller>Продавец</OCity_Dialog_Exchenge_Seller>
+	<OCity_Dialog_Exchenge_BeenOnline>был в сети </OCity_Dialog_Exchenge_BeenOnline>
+	<OCity_Dialog_Exchenge_Location>Место</OCity_Dialog_Exchenge_Location>
+	<OCity_Dialog_Exchenge_Days> дней </OCity_Dialog_Exchenge_Days>
+	<OCity_Dialog_Exchenge_In> в </OCity_Dialog_Exchenge_In>
+	<OCity_Dialog_Exchenge_Location_Goods>Месторасположение товара:</OCity_Dialog_Exchenge_Location_Goods>
+	<OCity_Dialog_Exchenge_Number>Кол-во</OCity_Dialog_Exchenge_Number>
+	<OCity_Dialog_Exchenge_Max_Repetition_Transaction>Максимум повоторов реализации сделки:</OCity_Dialog_Exchenge_Max_Repetition_Transaction>
+	<OCity_Dialog_Exchenge_Acquire>Приобрести</OCity_Dialog_Exchenge_Acquire>
+	<OCity_Dialog_Exchenge_GiveTo>Отдать</OCity_Dialog_Exchenge_GiveTo>
+	<OCity_Dialog_Exchenge_No_Warrants>Ордеров нет</OCity_Dialog_Exchenge_No_Warrants>
+	<OCity_Dialog_Exchenge_Active_Orders>Активных ордеров {0}</OCity_Dialog_Exchenge_Active_Orders>
+	<OCity_Dialog_Exchenge_Update>Обновить</OCity_Dialog_Exchenge_Update>
+	<OCity_Dialog_Exchenge_Select_For_Sale>Выбор на продажу из {0} </OCity_Dialog_Exchenge_Select_For_Sale>
+	<OCity_Dialog_Exchenge_Choose>Выбрать</OCity_Dialog_Exchenge_Choose>
+	<OCity_Dialog_Exchenge_Order_Create>Создать новый ордер</OCity_Dialog_Exchenge_Order_Create>
+	<OCity_Dialog_Exchenge_Save>Сохранить</OCity_Dialog_Exchenge_Save>
+	<OCity_Dialog_Exchenge_Create>Создать</OCity_Dialog_Exchenge_Create>
+	<OCity_Dialog_Exchenge_Trade>ТОРГОВАТЬ</OCity_Dialog_Exchenge_Trade>
+	<OCity_Dialog_Exchenge_Counterproposal>Встречное предложение</OCity_Dialog_Exchenge_Counterproposal>
+	<OCity_Dialog_Exchenge_Action_Not_CarriedOut>Встречное предложение</OCity_Dialog_Exchenge_Action_Not_CarriedOut>
+	<OCity_Dialog_Exchenge_Delete>Удалить</OCity_Dialog_Exchenge_Delete>
+	<OCity_Dialog_Exchenge_Order_New>Новый ордер</OCity_Dialog_Exchenge_Order_New>
+	<OCity_Dialog_Exchenge_No_Exchanges>Кол-во таких обменов:</OCity_Dialog_Exchenge_No_Exchanges>
+	<OCity_Dialog_Exchenge_No_Available_Exchange>Кол-во ещё доступно для обмена.</OCity_Dialog_Exchenge_No_Available_Exchange>
+	<OCity_Dialog_Exchenge_Done_Once>Совершено раз:</OCity_Dialog_Exchenge_Done_Once>
+	<OCity_Dialog_Exchenge_We_Give>Мы отдаем</OCity_Dialog_Exchenge_We_Give>
+	<OCity_Dialog_Exchenge_We_Give2>Мы отдаем {0} :</OCity_Dialog_Exchenge_We_Give2>
+	<OCity_Dialog_Exchenge_We_Get>Мы получаем</OCity_Dialog_Exchenge_We_Get>
+	<OCity_Dialog_Exchenge_No_User_Restrictions>Ограичений по пользователям нет.</OCity_Dialog_Exchenge_No_User_Restrictions>
+	<OCity_Dialog_Exchenge_User_Restrictions>Сделка доступна только пользователям:</OCity_Dialog_Exchenge_User_Restrictions>
+	<OCity_Dialog_Exchenge_Add_User>+ добавить пользователя</OCity_Dialog_Exchenge_Add_User>
+	<OCity_Dialog_Exchenge_Specific_Facility_Assigned>Задан конкретный объект</OCity_Dialog_Exchenge_Specific_Facility_Assigned>
+	<OCity_Dialog_Exchenge_Add>+ добавить</OCity_Dialog_Exchenge_Add>
+	<OCity_Dialog_Exchenge_Whole_On>Цело на {0} из {1} ({2}%).</OCity_Dialog_Exchenge_Whole_On>
+	<OCity_Dialog_Exchenge_Quality>Качество </OCity_Dialog_Exchenge_Quality>
+	<OCity_Dialog_Exchenge_Whole_Less_Than>Цело не меньше чем </OCity_Dialog_Exchenge_Whole_Less_Than>
+	<OCity_Dialog_Exchenge_QualityNo_Less_Than>Качество не меньше чем</OCity_Dialog_Exchenge_QualityNo_Less_Than>
+	<OCity_Dialog_Exchenge_All>все</OCity_Dialog_Exchenge_All>
+
+	<!-- Kor -->
+	<!-- ThingTrade.cs -->
+	<OCity_ThingTrade_Quality_Strength>Качество {0}. Прочность {1} из {2}</OCity_ThingTrade_Quality_Strength>
+	<OCity_ThingTrade_Cut_Body_Off>Снято с трупа.</OCity_ThingTrade_Cut_Body_Off>
+	<OCity_ThingTrade_QualityBetter_StrengthMore>Качество {0} и лучше. Прочность {1}% и больше</OCity_ThingTrade_QualityBetter_StrengthMore>
+	<OCity_ThingTrade_CouldTake_OffCorpse>Может быть снято с трупа.</OCity_ThingTrade_CouldTake_OffCorpse>
+
+	<!-- UpdateWorldController.cs -->
+	<OCity_UpdateWorld_Trade>Передача</OCity_UpdateWorld_Trade>
+	<OCity_UpdateWorld_TradeDetails>От игрока {0} в {1} переданы предметы: {2}</OCity_UpdateWorld_TradeDetails>
+
+	<!-- Dialog_Input.cs -->
+	<OCity_DialogInput_Ok>OK</OCity_DialogInput_Ok>
+	<OCity_DialogInput_Cancele>Отмена</OCity_DialogInput_Cancele>
+
+	<!-- Dialog_Registration.cs -->
+	<OCity_Dialog_Registration_Close>Закрыть</OCity_Dialog_Registration_Close>
+	<OCity_Dialog_Registration_BtnReg>Регистрация</OCity_Dialog_Registration_BtnReg>
+	<OCity_Dialog_Registration_LabelReg>Регистрация</OCity_Dialog_Registration_LabelReg>
+	<OCity_Dialog_Registration_Server>Сервер:</OCity_Dialog_Registration_Server>
+	<OCity_Dialog_Registration_Login>Логин:</OCity_Dialog_Registration_Login>
+	<OCity_Dialog_Registration_Pass>Пароль:</OCity_Dialog_Registration_Pass>
+	<OCity_Dialog_Registration_Check>Подтверждение:</OCity_Dialog_Registration_Check>
+
+	<!-- Dialog_TradeOnline.cs -->
+	<OCity_Dialog_TradeOnline_Trade>Передача товаров</OCity_Dialog_TradeOnline_Trade>
+
+	<!-- GrassFix.cs -->
+	<OCity_GrassFix_Plant>Посажено </OCity_GrassFix_Plant>
+	<OCity_GrassFix_Grass> травы</OCity_GrassFix_Grass>
+
+	<!-- PlayerClient.cs -->
+	<OCity_PlayerClient_LastTick>Играет всего лет: {0}, дней: {1}.</OCity_PlayerClient_LastTick>
+	<OCity_PlayerClient_LastSaveTime>Был в игре: {2}</OCity_PlayerClient_LastSaveTime>
+	<OCity_PlayerClient_baseCount>Поселений: {3}</OCity_PlayerClient_baseCount>
+	<OCity_PlayerClient_caravanCount>Караванов: {4}</OCity_PlayerClient_caravanCount>
+	<OCity_PlayerClient_marketValue>Ценность вещей: {5}</OCity_PlayerClient_marketValue>
+	<OCity_PlayerClient_marketValuePawn>Ценность людей и животных: {6}</OCity_PlayerClient_marketValuePawn>
+	<OCity_PlayerClient_LastSaveTimeNon>не участвовал</OCity_PlayerClient_LastSaveTimeNon>
+
+	<!-- Kor -->
+	<!-- GameUtils.cs -->
+	<OCity_GameUtils_From> из </OCity_GameUtils_From>
+	<OCity_GameUtils_Ok>OK</OCity_GameUtils_Ok>
+
+	<!-- Kor -->
+	<!-- GameAttacker.cs -->
+	<OCity_GameAttacker_Dialog_ErrorMessage>Error attack</OCity_GameAttacker_Dialog_ErrorMessage>
+	<OCity_GameAttacker_Dialog_Settlement_Attack>Вы атакуете поселение</OCity_GameAttacker_Dialog_Settlement_Attack>
+	<OCity_GameAttacker_Withdraw>Отступить</OCity_GameAttacker_Withdraw>
+	<OCity_GameAttacker_Main_Dialog>В этом режиме пауза должна быть постоянно включена. Несмотря на это игра продолжается и положение вещей меняется. Если вы хотите завершить нападение, то отведите тех кого сможете к любому краю карты и в главном меню нажмите </OCity_GameAttacker_Main_Dialog>
+	<OCity_GameAttacker_Main_Preparation_Dialog>Подготовка завершена. У Вас есть минута чтобы осмотреться на карте и атака начнется!</OCity_GameAttacker_Main_Preparation_Dialog>
+	<Ocity_GameAttacker_TrainingFight_Won>Вы выиграли этот тренировочный бой! :)</Ocity_GameAttacker_TrainingFight_Won>
+	<Ocity_GameAttacker_TrainingFight_Caravan_Restore>Сейчас караван будет восстановлен, Вам нужно будет выполнить вход.</Ocity_GameAttacker_TrainingFight_Caravan_Restore>
+	<Ocity_GameAttacker_TrainingFight_Lost>Вы потерпели поражение в этой тренировочной атаке. :(</Ocity_GameAttacker_TrainingFight_Lost>
+	<OCity_GameAttacker_Done>Готово</OCity_GameAttacker_Done>
+	<OCity_GameAttacker_Settlement_TakenOver>Вы захватили это поселение! :) </OCity_GameAttacker_Settlement_TakenOver>
+	<OCity_GameAttacker_Defeated>Вы потерпели поражение :(</OCity_GameAttacker_Defeated>
+	<OCity_GameAttacker_Colonist_Return>Оставшиеся колонисты, которые способны передвигаться и которые отступили к краям карты возвращаются.</OCity_GameAttacker_Colonist_Return>
+
+	<!-- Kor -->
+	<!-- GameAttackHost.cs -->
+	<OCity_GameAttack_Host_Test_Attack>{0} проводит тестовую атаку на Ваше поселение</OCity_GameAttack_Host_Test_Attack>
+	<OCity_GameAttack_Host_Settlement_Attacking>Ваше поселение атакует {0}</OCity_GameAttack_Host_Settlement_Attacking>
+	<OCity_GameAttack_Host_GameSpeed_Lock_Dialog>Дождитесь когда атакующий будет готов. После этого скорость автоматически включиться на х1 и её нелзья будет менять.</OCity_GameAttack_Host_GameSpeed_Lock_Dialog>
+	<OCity_GameAttack_Host_GameSpeed_Lock_Dialog2>Если вы хотите закончить и отдать поселение, то нажмите в главном меню.</OCity_GameAttack_Host_GameSpeed_Lock_Dialog2>
+	<OCity_GameAttack_Host_Cancel_Action> Если вы хотите закончить и отменить тренировку, то нажмите в главном меню </OCity_GameAttack_Host_Cancel_Action>
+	<OCity_GameAttack_Host_Surrender>Сдаться</OCity_GameAttack_Host_Surrender>
+	<OCity_GameAttack_Host_Error_Message_Attack>Error attack</OCity_GameAttack_Host_Error_Message_Attack>
+	<OCity_GameAttack_Host_Card_Restored>Сейчас карта будет восстановлена, Вам нужно будет выполнить вход.</OCity_GameAttack_Host_Card_Restored>
+	<OCity_GameAttack_Host_Training_Attack_Repulsed>Вы отбили эту тренировочную атаку! :)</OCity_GameAttack_Host_Training_Attack_Repulsed>
+	<OCity_GameAttack_Host_Caravan_TransferToNewOwner>Вы потерпели поражение и поселение переходит к новому владельцу :(</OCity_GameAttack_Host_Caravan_TransferToNewOwner>
+	<OCity_GameAttack_Host_Atack_Repulsed>Вы отбили эту атаку! :) </OCity_GameAttack_Host_Atack_Repulsed>
+	<OCity_GameAttack_Host_Stranded_EnemiesLostCommander_Touch>Враги, которые не сумели уйти останутся на карте, но они потеряли связь со своим командиром.</OCity_GameAttack_Host_Stranded_EnemiesLostCommander_Touch>
+
+	<!-- SCC.cs -->
+	<!-- <OCity_SCC_Disconnected>Ошибка соединения.</OCity_SCC_Disconnected>
+	<OCity_SCC_DisconnectedShow>Соединение прервано</OCity_SCC_DisconnectedShow> -->
+
+	<!-- Dialog_MainOnlineCity.cs -->
+	<!-- Kor -->
+	<OCity_Dialog_Exchenge_Chat>в чате</OCity_Dialog_Exchenge_Chat>
+	<OCity_Dialog_Exchenge_Gamers>игроки</OCity_Dialog_Exchenge_Gamers>
+	<OCity_Dialog_Exchenge_What_Point>Что к чему</OCity_Dialog_Exchenge_What_Point>
+
+	<OCity_InfoTabText></OCity_InfoTabText>
+	<OCity_AboutTabText>Автор Василий Иванов aka Aant.</OCity_AboutTabText>
+	<OCity_AboutGeneralText>Приветствую тебя, Колонизатор!
+
+OnlineCity - представляет из себя модуль сетевой игры для симулятора выживания RimWorld. Он позволяет нескольким игрокам играть на одной планете в режиме онлайн.
+
+После регистрации, вы сможете создать свое поселение и начать развиваться бок о бок с другими участниками. Вам дается возможность наблюдать за прогрессом соседей, их поселениями и караванами, но самое главное вы сможете оказывать друг другу вполне материальную помощь, передавая еду, медикаменты, оружие или любые другие вещи, включая поселенцев. Для этого необходимо лишь по всем правилам игры собрать караван и добраться до них!
+
+Цель мода – сделать возможной игру с друзьями, не нарушая баланса и не снижая уровень погружения в игру. На данный момент жизненный путь мода только начался, и в его функционал входит:
+
+* Игра на одной планете, с возможностью видеть поселения и караваны других игроков
+
+* Обмен предметами (в т.ч. добавленными модами)
+
+* Передача поселенцев и животных между игроками
+
+* Общий/Приватный чат между игроками
+
+Технические особенности:
+
+* Поддерживаются любые моды и наборы, но передавать и принимать предметы можно только игроку у которого есть моды меняющие данные предметы. Жесткого ограничения нет, соблюдайте осторожность
+
+* Мод полностью отключается при обычной игре - если вы начинали не с кнопки Сетевая игра
+
+* При регистрации нового игрока иногда происходит подвисание на несколько минут, просто подождите
+
+* По техническим причинам сохранение не работает при выходе из игры не через меню. Помимо этого игра сохраняется на сервере раз в 15 минут
+
+* Пока сетевая игра ориентирована только на взаимопомощь в выживании.
+
+* Режим разработчика на данный момент доступен, но, обычно, игроки относятся к его использованию крайне негативно (кроме случаев, когда это нужно для тестирования мода).
+
+* Передача пешек с проектом HardcoreSK временно не работает
+
+* Передать товары и пешек можно и offline игроку
+
+* Цвет домов и караванов других игроков – синий. С ними можно взаимодействовать, выделив свой караван и нажав на них правой кнопкой мыши.
+
+* Передавать можно между поселениями и караванами, находящимися на одной клетки правой кнопкой мыши. Следите за совместимостью модов и перегрузом принимающей стороны
+
+* При передаче товаров учитывайте грузоподъемность караванов. При перегрузе караван не сможет передвигаться. Выделив караван, можно узнать сколько груза он ещё может принять.
+
+* По щелчку любой кнопки мыши на никнейме игрока происходит добавление игрока в активный чат, открытие приватного канала чата, либо просмотр общей информации об игроке на выбор.
+
+* Чтобы товары, полученные от сделок с другими игроками, складировались в определенном месте вашего поселения, переименуйте нужный склад так, чтобы он содержал символы "торг" или "trad".
+
+* При передаче последней пешки караван будет расформирован, а оставшиеся вещи и животные автоматически добавлены к передаче
+
+* Сценарий игры настроить нельзя, но рассказчика можно сменить сразу после старта через настройки
+
+* Играть на одной карте нельзя, и, скорее всего, в будущем это не измениться
+
+* Нельзя загрузить игру online. Но можно загрузить эту игру в offline режиме (перевести её в online также нельзя), для этого загрузите сохранение onlineCityTempLoad.
+
+* Геймплей игры модом почти не меняется: появляется только возможность помогать друг другу обмениваясь товарами и пешками, по полноценным игровым правилам. Появляется ограничение на сохранение: только одно автоматическое на сервере. А также чувство плеча, когда вы смотрите на карту планеты и видите рядом поселения других игроков :)
+
+* Пример взаимодействия: в момент нападения можно запросить помощи у друга и поставить игру на паузу, он в это время подойдёт караваном и передаст своих поселенцев; после отбития атаки можно вернуть поселенцев таким же способом. Или, например, тот кто пришёл на помощь может передать всех пешек кроме одной, чтобы караван не был расформирован, тогда вернить поселенцев можно будет сразу же после отбития передав их в назад в караван.
+
+* Логи пишуться в: %appdata%\..\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios\OnlineCity (это можно вставить в проводник)
+
+
+Ссылки:
+Основной сервер для игры и тестирования:  rimworld.online  он же: 194.87.95.90
+Discord:  https://discord.gg/5DzWrnR
+Оф. группа мода ВК:  https://vk.com/rimworldonline
+Trello:  https://trello.com/b/gXtWtDjy/onlinecity-mod-rimworld
+GitHub:  https://github.com/AantCoder/OnlineCity
+
+
+Пара слов о запуске сервера.
+Распаковать файлы сервера в любое удобное место. Запускаете, сервер создаёт (должен сам создать) папку C:\World. Там будут логи и файл данных. После запуска сервер сразу стартует на порту по умолчанию 19019. Первый кто зарегистрируется становиться админом и у него спрашиваются параметры мира. После создания мира его дисконнектет и он может заходить как обычно, создать себе поселение.
+Для пересоздания мира закрыть консоль сервера, удалить файл данных, запустить консоль
+</OCity_AboutGeneralText>
+
+</LanguageData>
